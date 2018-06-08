@@ -48,7 +48,7 @@ docker build -t hello-node:v1 .
 
 ### update image of deployment
 
-- `kubectl set image deployment/hello-node hello-node=[image:tag]
+- `kubectl set image deployment/hello-node hello-node=[image:tag]`
 
 ### other
 
